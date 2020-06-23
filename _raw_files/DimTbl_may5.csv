@@ -1,0 +1,221 @@
+DeviceName,PFAMName,SubsidiaryCode,SubsidiaryName,TPId,TPNamee,ProductPartNbr
+Device-2,Device-1 128GB M 4GB Comm M1796,10,United States,47922,Retailer-3,FJSXXXX
+Device-4,Device-1 i7/16/512 GPU,75,Canada,5924114,Retailer-2,FUXXXXX
+Device-1,Device-1 128GBM4GB DevNoPenSigCover Bndl,10,United States,27898,Retailer-1,DQSXXXX
+Device-1,Device-1 256GB i7 8GB,75,Canada,5924114,Retailer-2,*!Q9XXXX
+Device-2,Device-1 256GB i7 8G M1796,10,United States,47922,Retailer-3,FJZXXXX
+Device-3,Device-1 i7/8/256 GPU Comm BSKU,75,Canada,5976026,Retailer-4,J-0XXXXX
+Device-3,Device-1 i7/16/1TB GPU,10,United States,27898,Retailer-1,-0NNXXXX
+Device-1,Device-1 256GB i7 8GB,10,United States,47922,Retailer-3,*!Q9XXXX
+Device-4,Device-1 i7/16/256 GPU,75,Canada,5924114,Retailer-2,-0NR-00002
+Device-1,Device-1 256GB i7 16GB,75,Canada,5976026,Retailer-4,T-02XXXX
+Device-1,Device-1 128GBM 4GB Comm COMPLT EDU Bndl,10,United States,47922,Retailer-3,*!WXXXXX
+Device-2,Device-1 1TB i7 16GB M1796,10,United States,27898,Retailer-1,FKKXXXX
+Device-3,Device-1 i5-8350/8/256,75,Canada,5976026,Retailer-4,PGUXXXX
+Device-1,Device-1 256GB i5 8GB Commer,10,United States,47922,Retailer-3,7AXXXXX
+Device-1,Device-1 512GB i7 16GB Commer,10,United States,47922,Retailer-3,TN3XXXX
+Device-4,Device-1 i7/16/256 GPU,75,Canada,5976026,Retailer-4,-0NR-00002
+Device-3,Device-1 i7/16/512 GPU Comm TAA,10,United States,47922,Retailer-3,KELXXXX
+Device-2,Device-1 128GB i5 4GB Comm Demo M1796,10,United States,47922,Retailer-3,FNGXXXX
+Device-3,Device-1 i5/8/256 Demo,75,Canada,5976026,Retailer-4,JE-0XXXX
+Device-2,Device-1 R 128GB M4GB TCBndl DB M1796,75,Canada,5924114,Retailer-2,LJJXXXX
+Device-2,Device-1 128GB i5 4GB Comm M1796,10,United States,47922,Retailer-3,FJUXXXX
+Device-1,Device-1 256GB i7 8GB Commer Bundle,10,United States,47922,Retailer-3,6DLXXXX
+Device-4,Device-1 i7/16/1TB GPU,75,Canada,5924114,Retailer-2,FV-0XXXX
+Device-1,Device-1 128GB M 4GB Commer Demo,10,United States,47922,Retailer-3,U4QXXXX
+Device-3,Device-1 i5-8350/8/256,10,United States,47922,Retailer-3,PGUXXXX
+Device-2,Device-1 128GB i5 4GB BlackTCBndl M1796,75,Canada,5976026,Retailer-4,-0G-0-00022
+Device-3,Device-1 i7/16/1TB GPU Comm Demo,10,United States,47922,Retailer-3,JEUXXXX
+Device-2,Device-1 R 128GB M 4GB M1796,10,United States,47922,Retailer-3,LGNXXXX
+Device-2,Device-1 512GB i7 16GB M1796,75,Canada,5924114,Retailer-2,FK-0XXXX
+Device-3,Device-1 i5/8/256 Comm TAA,10,United States,47922,Retailer-3,KEJXXXX
+Device-1,Device-1 512GB i7 16GB,10,United States,27898,Retailer-1,T-04XXXX
+Device-1,Device-1 256GB i7 8GB,10,United States,27898,Retailer-1,*!Q9XXXX
+Device-4,Device-1 i7/16/1TB GPU,10,United States,27898,Retailer-1,FV-0XXXX
+Device-1,Device-1 256GB i7 8GB,75,Canada,5976026,Retailer-4,*!Q9XXXX
+Device-2,Device-1 256GB i5 16GB Comm M1796,10,United States,47922,Retailer-3,-0LNXXXX
+Device-1,Device-1 128GB M 4GB,10,United States,47922,Retailer-3,SU3XXXX
+Device-3,Device-1 i7/16/512 GPU Exchange,75,Canada,27898,Retailer-1,J-0ZXXXX
+Device-4,Device-1 i7/16/512 GPU,75,Canada,5976026,Retailer-4,FUX-00002
+Device-2,Device-1 256GB i5 8GB M1796,75,Canada,5924114,Retailer-2,FJXXXXX
+Device-3,Device-1 i5-8350/8/256 ESKU,75,Canada,27898,Retailer-1,PGYXXXX
+Device-2,Device-1 128GB i5 8GB Demo M1796,75,Canada,5976026,Retailer-4,FN-0XXXX
+Device-1,Device-1 512GB i7 16GB,75,Canada,5976026,Retailer-4,T-04XXXX
+Device-1,Device-1 1TB i7 16GB Commer,10,United States,47922,Retailer-3,SV4XXXX
+Device-2,Device-1 256GBi5 8GB Comm TAA M1796,10,United States,47922,Retailer-3,-0EUXXXX
+Device-2,Device-1 256GB i5 8GB M1796,10,United States,27898,Retailer-1,FJXXXXX
+Device-2,Device-1 128GB i5 8GB M1796,75,Canada,5924114,Retailer-2,KJRXXXX
+Device-2,Device-1 128GB i5 4GB M1796,75,Canada,5924114,Retailer-2,FJTXXXX
+Device-3,Device-1 i7/16/1TB GPU Comm TAA,10,United States,47922,Retailer-3,KEMXXXX
+Device-3,Device-1 i7/8/256 GPU,10,United States,27898,Retailer-1,-0N4XXXX
+Device-1,Device-1 256GB i5 8GB,75,Canada,5924114,Retailer-2,*!R3XXXX
+Device-1,Device-1 128GB M 4GB,75,Canada,5924114,Retailer-2,SU3XXXX
+Device-3,Device-1 i7/16/512 GPU,75,Canada,5976026,Retailer-4,-0NL-00002
+Device-1,Device-1 512GB i5 16GB Commer,10,United States,47922,Retailer-3,TU5XXXX
+Device-1,Device-1 128GB i5 4GB Demo,10,United States,47922,Retailer-3,U4PXXXX
+Device-1,Device-1 256GB i7 16GB Commer Bundle,10,United States,47922,Retailer-3,6DUXXXX
+Device-1,Device-1 256GB i5 8GB Commer Bundle,10,United States,47922,Retailer-3,6DGXXXX
+Device-2,Device-1 512GB i7 16GBComm TAA M1796,10,United States,47922,Retailer-3,-0EWXXXX
+Device-2,Device-1 128GB i5 4GB M1796,75,Canada,5976026,Retailer-4,FJTXXXX
+Device-2,Device-1 256GB i7 8G Comm M1796,10,United States,47922,Retailer-3,FKGXXXX
+Device-2,Device-1 128GB i5 8GB M1796,75,Canada,5976026,Retailer-4,KJRXXXX
+Device-2,Device-1 LTE 128GB i5 4GB CommTAA M1807,10,United States,47922,Retailer-3,KESXXXX
+Device-1,Device-1 256GB i5 16GB Commer,10,United States,47922,Retailer-3,TU4XXXX
+Device-4,Device-1 i7/16/256 GPU,75,Canada,5976026,Retailer-4,-0NRXXXX
+Device-4,Device-1 i7/16/256 GPU Comm TAA,10,United States,47922,Retailer-3,KENXXXX
+Device-1,Device-1 128GB i5 4GB Demo,75,Canada,5976026,Retailer-4,U4PXXXX
+Device-3,Device-1 i7/8/256 GPU,75,Canada,5976026,Retailer-4,-0N4XXXX
+Device-1,Device-1 512GB i7 16GB Commer Bundle,10,United States,47922,Retailer-3,6DWXXXX
+Device-3,Device-1 i7/16/1TB GPU,75,Canada,5924114,Retailer-2,-0NNXXXX
+Device-1,Device-1 128GB i5 4GB,75,Canada,5924114,Retailer-2,*!R5XXXX
+Device-2,Device-1 LTE 256GBi5 8GB CommDemo M1807,10,United States,47922,Retailer-3,-0LYXXXX
+Device-1,Device-1 128GB M 4GB,10,United States,27898,Retailer-1,SU3XXXX
+Device-3,Device-1 i5/8/256,10,United States,47922,Retailer-3,-0MWXXXX
+Device-2,Device-1 256GB i7 8G M1796,75,Canada,5976026,Retailer-4,FJZXXXX
+Device-4,Device-1 i5/16/256,10,United States,27898,Retailer-1,QKKXXXX
+Device-3,Device-1 i7/16/512 GPU,10,United States,47922,Retailer-3,-0NLXXXX
+Device-2,Device-1 128GB i5 4GB BlackTCBndl M1796,10,United States,47922,Retailer-3,-0G-0XXXX
+Device-2,Device-1 1TB i7 16GB M1796,75,Canada,5924114,Retailer-2,FKKXXXX
+Device-2,Device-1 128GB M4GB BlackTCBndl M1796,75,Canada,5976026,Retailer-4,-0GGXXXX
+Device-2,Device-1 128GB i5 8GB Comm M1796,10,United States,47922,Retailer-3,KJSXXXX
+Device-1,Device-1 256GB i5 8GB,10,United States,27898,Retailer-1,*!R3XXXX
+Device-3,Device-1 i5/8/128 Exchange,75,Canada,27898,Retailer-1,J-0YXXXX
+Device-2,Device-1 512GB i7 16GB Comm M1796,10,United States,47922,Retailer-3,FKJXXXX
+Device-4,Device-1 i7/16/512 GPU,10,United States,27898,Retailer-1,FUXXXXX
+Device-3,Device-1 i7/8/256 GPU,75,Canada,5924114,Retailer-2,-0N4XXXX
+Device-2,Device-1 R 128GB M 4GB M1796,75,Canada,5976026,Retailer-4,LGNXXXX
+Device-3,Device-1 i5-8350/8/256,75,Canada,5924114,Retailer-2,PGU-00002
+Device-1,Device-1 128GB i5 4GB,10,United States,27898,Retailer-1,*!R5XXXX
+Device-4,Device-1 i7/16/256 GPU Exchange,75,Canada,27898,Retailer-1,-0NWXXXX
+Device-2,Device-1 128GBi5 8GBColorTCBndlDB M1796,10,United States,47922,Retailer-3,KL-0XXXX
+Device-4,Device-1 i5/16/256,75,Canada,5924114,Retailer-2,QKKXXXX
+Device-1,Device-1 256GB i7 8GB Commer,10,United States,47922,Retailer-3,SU9XXXX
+Device-2,Device-1 128GB i5 4GB BlackTCBndl M1796,10,United States,27898,Retailer-1,-0G-0XXXX
+Device-3,Device-1 i7/16/512 GPU Comm,10,United States,47922,Retailer-3,-0NMXXXX
+Device-2,Device-1 512GB i7 16GB M1796,10,United States,27898,Retailer-1,FK-0XXXX
+Device-4,Device-1 i7/16/1TB GPU,75,Canada,5976026,Retailer-4,FV-0XXXX
+Device-2,Device-1 1TB i7 16GB M1796,75,Canada,5976026,Retailer-4,FKKXXXX
+Device-1,Device-1 128GBM4GBNoPenCommerSustainDemo,10,United States,47922,Retailer-3,FLUXXXX
+Device-1,Device-1 128GBM4GBNoPenCommCOMPLTEDUBndl,10,United States,47922,Retailer-3,FUUXXXX
+Device-3,Device-1 i5/8/256 Comm,10,United States,47922,Retailer-3,-0MXXXXX
+Device-2,Device-1 LTE 256GB i5 8GB M1807,10,United States,27898,Retailer-1,GWMXXXX
+Device-1,Device-1 128GB M 4GB No Pen Sustain,75,Canada,5924114,Retailer-2,FMLXXXX
+Device-2,Device-1 LTE 256GB i5 8GB M1807,75,Canada,5924114,Retailer-2,GWMXXXX
+Device-1,Device-1 512GB i5 8GB Commer,10,United States,47922,Retailer-3,TN2XXXX
+Device-4,Device-1 i7/16/256 GPU,10,United States,27898,Retailer-1,-0NRXXXX
+Device-3,Device-1 i7/16/1TB GPU,75,Canada,5976026,Retailer-4,-0NNXXXX
+Device-2,Device-1 128GB i5 4GB M1796,10,United States,47922,Retailer-3,FJTXXXX
+Device-1,Device-1 128GB M 4GB Commer,10,United States,47922,Retailer-3,SU5XXXX
+Device-3,Device-1 i5-8350/8/256,10,United States,27898,Retailer-1,PGUXXXX
+Device-4,Device-1 i7/16/256 GPU,10,United States,47922,Retailer-3,-0NRXXXX
+Device-1,Device-1 256GBi5 8GB CommCOMPLT EDU Bndl,10,United States,47922,Retailer-3,*!XJXXXX
+Device-3,Device-1 i5/8/256,75,Canada,5976026,Retailer-4,-0MWXXXX
+Device-1,Device-1 512GB i7 16GB Commer EDU Bundle,10,United States,47922,Retailer-3,U3MXXXX
+Device-2,Device-1 R 128GB M4GB TCBndl DB M1796,10,United States,27898,Retailer-1,LJJXXXX
+Device-4,Device-1 i7/16/1TB GPU Comm TAA,10,United States,47922,Retailer-3,KEQXXXX
+Device-1,Device-1 256GB i7 16GB Commer,10,United States,47922,Retailer-3,T-05XXXX
+Device-2,Device-1 256GBi7 8GB Comm TAA M1796,10,United States,47922,Retailer-3,-0EVXXXX
+Device-3,Device-1 i5/8/256 Demo,75,Canada,5976026,Retailer-4,JE-0-00002
+Device-2,Device-1 128GB M 4GB M1796,10,United States,27898,Retailer-1,FJRXXXX
+Device-4,Device-1 i7/16/1TB GPU Comm Demo,10,United States,47922,Retailer-3,FVXXXXX
+Device-2,Device-1 128GB i5 4GB Comm TAA M1796,10,United States,47922,Retailer-3,-0ETXXXX
+Device-4,Device-1 i7/16/512 GPU,75,Canada,5924114,Retailer-2,FUX-00002
+Device-1,Device-1 256GB i5 8GB B SKU NoPen Comm,75,Canada,5976026,Retailer-4,KGMXXXX
+Device-2,Device-1 LTE 256GB i5 8GB M1807,75,Canada,5976026,Retailer-4,GWMXXXX
+Device-3,Device-1 i5/8/256 Exchange,75,Canada,27898,Retailer-1,JLYXXXX
+Device-1,Device-1 128GB M 4GB No Pen Sustain,10,United States,47922,Retailer-3,FMLXXXX
+Device-3,Device-1 i7/16/1TB GPU Comm,10,United States,47922,Retailer-3,-0NQXXXX
+Device-3,SrfcDevice-1i5-8350/8/256CommDemo,10,United States,47922,Retailer-3,PJUXXXX
+Device-3,Device-1 i7/16/1TB GPU,10,United States,47922,Retailer-3,-0NNXXXX
+Device-2,Device-1 128GB M 4GB M1796,75,Canada,5924114,Retailer-2,FJRXXXX
+Device-3,Device-1 i5/8/256,10,United States,27898,Retailer-1,-0MWXXXX
+Device-3,Device-1 i5-8350/8/256,75,Canada,5976026,Retailer-4,PGU-00002
+Device-1,Device-1 1TB i7 16GB,10,United States,27898,Retailer-1,SU4XXXX
+Device-4,Device-1 i7/16/256 GPU Comm,10,United States,47922,Retailer-3,-0NSXXXX
+Device-2,Device-1 128GB M4GB BlackTCBndl M1796,75,Canada,5924114,Retailer-2,-0GG-00018
+Device-2,Device-1 256GB i7 8G M1796,10,United States,27898,Retailer-1,FJZXXXX
+Device-1,Device-1 512GB i7 16GB,10,United States,47922,Retailer-3,T-04XXXX
+Device-1,Device-1 256GB i5 8GB,10,United States,47922,Retailer-3,*!R3XXXX
+Device-2,Device-1 128GB M4GB BlackTCBndl M1796,10,United States,27898,Retailer-1,-0GGXXXX
+Device-3,Device-1 i5-8350/8/256 Comm,10,United States,47922,Retailer-3,PGVXXXX
+Device-1,Device-1 512GBi7 16GB CommCOMPLT EDUBndl,10,United States,47922,Retailer-3,*!XPXXXX
+Device-1,Device-1 128GB M 4GB,75,Canada,5976026,Retailer-4,SU3XXXX
+Device-2,Device-1256GBi5 8GB TC BndlM1796 CMMR,10,United States,47922,Retailer-3,PFPXXXX
+Device-4,Device-1 i7/16/1TB GPU Comm,10,United States,47922,Retailer-3,FVJXXXX
+Device-4,Device-1 i7/16/512 GPU,10,United States,47922,Retailer-3,FUXXXXX
+Device-4,Device-1 i7/16/512 GPU Comm TAA,10,United States,47922,Retailer-3,KEPXXXX
+Device-4,Device-1 i7/16/1TB GPU Exchange,75,Canada,27898,Retailer-1,FWDXXXX
+Device-1,Device-1 128GBi5 4GB DevNoPen Cover Bndl,75,Canada,5976026,Retailer-4,DQQXXXX
+Device-1,Device-1 128GBi5 4GB DevNoPen Cover Bndl,10,United States,27898,Retailer-1,DQQXXXX
+Device-1,Device-1 128GB M 4GB No Pen Sustain,75,Canada,5976026,Retailer-4,FMLXXXX
+Device-1,Device-1 128GB i5 4GB Commer Demo,10,United States,47922,Retailer-3,U5MXXXX
+Device-2,Device-1 256GB i5 8GB M1796,10,United States,47922,Retailer-3,FJXXXXX
+Device-3,Device-1 i5/8/256,75,Canada,5976026,Retailer-4,-0MW-00002
+Device-1,Device-1 256GBi7 8GB CommCOMPLT EDU Bndl,10,United States,47922,Retailer-3,*!XNXXXX
+Device-1,Device-1 256GB i7 16GB,10,United States,47922,Retailer-3,T-02XXXX
+Device-3,Device-1 i5-8350/8/256,75,Canada,5924114,Retailer-2,PGUXXXX
+Device-3,Device-1 i7/8/256 GPU Comm,10,United States,47922,Retailer-3,-0N6XXXX
+Device-3,Device-1 i7/8/256 GPU,75,Canada,5976026,Retailer-4,-0N4-00002
+Device-4,Device-1 i7/16/512 GPU,75,Canada,5976026,Retailer-4,FUXXXXX
+Device-2,Device-1 LTE 256GB i5 8GB M1807,10,United States,47922,Retailer-3,GWMXXXX
+Device-2,Device-1 128GB i5 4GB BlackTCBndl M1796,75,Canada,5976026,Retailer-4,-0G-0XXXX
+Device-2,Device-1 256GB i5 8GB Comm Demo M1796,10,United States,47922,Retailer-3,FNLXXXX
+Device-3,Device-1 i7/8/256 GPU Exchange,75,Canada,27898,Retailer-1,J-0VXXXX
+Device-3,Device-1 i7/16/512 GPU,75,Canada,5976026,Retailer-4,-0NLXXXX
+Device-4,Device-1 i7/16/1TB GPU,10,United States,47922,Retailer-3,FV-0XXXX
+Device-1,Device-1 256GB i7 8GB Commer EDU Bundle,10,United States,47922,Retailer-3,U29XXXX
+Device-2,Device-1 128GB M 4GB M1796,75,Canada,5976026,Retailer-4,FJRXXXX
+Device-2,Device-1256GBi5 8GB SigTCBndlM1796CMMR,10,United States,47922,Retailer-3,PFNXXXX
+Device-1,Device-1 256GB i5 8GB Commer,10,United States,47922,Retailer-3,TJ2-00004
+Device-2,Device-1 128GB M4GBColorTCBndlDB M1796,10,United States,47922,Retailer-3,KLGXXXX
+Device-2,Device-1 1TB i7 16GB Comm M1796,10,United States,47922,Retailer-3,FKLXXXX
+Device-4,Device-1 i7/16/512 GPU Comm,10,United States,47922,Retailer-3,FVGXXXX
+Device-2,Device-1 R 128GB M 4GB M1796,10,United States,27898,Retailer-1,LGNXXXX
+Device-2,Device-1 256GB i5 8GB Comm M1796,10,United States,47922,Retailer-3,FJYXXXX
+Device-2,Device-1 128GB M4GB BlackTCBndl M1796,75,Canada,5924114,Retailer-2,-0GGXXXX
+Device-1,Device-1 128GB i5 4GB Commer EDU Bundle,10,United States,47922,Retailer-3,TZ6XXXX
+Device-1,Device-1 128GB i5 4GB,10,United States,47922,Retailer-3,*!R5XXXX
+Device-1,Device-1 256GB i5 8GB DevNoPen CoverBndl,75,Canada,5976026,Retailer-4,GLKXXXX
+Device-2,Device-1 512GB i7 16GB M1796,75,Canada,5976026,Retailer-4,FK-0XXXX
+Device-3,Device-1 i5/8/128 DB,75,Canada,5976026,Retailer-4,-0MUXXXX
+Device-2,Device-1 128GB i5 4GB M1796,10,United States,27898,Retailer-1,FJTXXXX
+Device-3,Device-1 i5/8/256,75,Canada,5924114,Retailer-2,-0MWXXXX
+Device-2,Device-1 256GB i5 8GB M1796,75,Canada,5976026,Retailer-4,FJXXXXX
+Device-2,Device-1 LTE 128GB i5 4GB Comm M1807,10,United States,47922,Retailer-3,GWLXXXX
+Device-2,Device-1 128GB i5 4GB Demo M1796,75,Canada,5976026,Retailer-4,FNAXXXX
+Device-4,Device-1 i7/16/256 GPU,75,Canada,5924114,Retailer-2,-0NRXXXX
+Device-3,Device-1 i7/16/512 GPU,75,Canada,5924114,Retailer-2,-0NLXXXX
+Device-2,Device-1 LTE 256GB i5 8GB Comm M1807,10,United States,47922,Retailer-3,GWPXXXX
+Device-2,Device-1 128GB i5 8GB M1796,10,United States,27898,Retailer-1,KJRXXXX
+Device-2,Device-1 256GB i7 8G M1796,75,Canada,5924114,Retailer-2,FJZXXXX
+Device-4,Device-1 i7/16/1TB GPU,75,Canada,5924114,Retailer-2,FV-0-00002
+Device-3,Device-1 i7/16/1TB GPU,75,Canada,5976026,Retailer-4,-0NN-00002
+Device-2,Device-1 512GB i7 16GB M1796,10,United States,47922,Retailer-3,FK-0XXXX
+Device-1,Device-1 128GB M 4GB Commer EDU Bundle,10,United States,47922,Retailer-3,TZ5XXXX
+Device-3,Device-1 i7/8/256 GPU,10,United States,47922,Retailer-3,-0N4XXXX
+Device-1,Device-1 128GBi5 4GB DevNoPen Cover Bndl,75,Canada,5924114,Retailer-2,DQQXXXX
+Device-2,Device-1 1TB i7 16GB Comm TAA M1796,10,United States,47922,Retailer-3,-0EXXXXX
+Device-2,Device-1 R 128GB M 4GB M1796,75,Canada,5924114,Retailer-2,LGNXXXX
+Device-4,Device-1 i7/16/512 GPU Exchange,75,Canada,27898,Retailer-1,FVZXXXX
+Device-3,Device-1 i7/16/512 GPU,10,United States,27898,Retailer-1,-0NLXXXX
+Device-1,Device-1 128GB M 4GB NoPenCommer Sustain,10,United States,47922,Retailer-3,FJQXXXX
+Device-4,Device-1 i7/16/1TB GPU,75,Canada,5976026,Retailer-4,FV-0-00002
+Device-1,Device-1 256GB i5 8GB,75,Canada,5976026,Retailer-4,*!R3XXXX
+Device-1,Device-1 512GB i5 16GB Commer,10,United States,47922,Retailer-3,TU5-00002
+Device-4,Device-1 i5/16/256,75,Canada,5976026,Retailer-4,QKKXXXX
+Device-3,Device-1 i5/8/256 Comm Demo,10,United States,47922,Retailer-3,JEKXXXX
+Device-1,Device-1 128GB M 4GB No Pen Sustain,10,United States,27898,Retailer-1,FMLXXXX
+Device-1,Device-1 128GB i5 4GB Commer,10,United States,47922,Retailer-3,9PYXXXX
+Device-1,Device-1 256GB i7 16GB,10,United States,27898,Retailer-1,T-02XXXX
+Device-2,Device-1 128GB M 4GB M1796,10,United States,47922,Retailer-3,FJRXXXX
+Device-1,Device-1 256GB i7 8GB,10,United States,47922,Retailer-3,*!Q9-00021
+Device-2,Device-1 128GBi5 8GBColorTCBndlDB M1796,10,United States,27898,Retailer-1,KL-0XXXX
+Device-1,Device-1 256GB i7 16GB Commer EDU Bundle,10,United States,47922,Retailer-3,U2MXXXX
+Device-1,Device-1 128GB i5 4GB,75,Canada,5976026,Retailer-4,*!R5XXXX
+Device-1,Device-1 128GB i5 4GB,75,Canada,5976026,Retailer-4,*!R5-00015
+Device-2,Device-1 1TB i7 16GB M1796,10,United States,47922,Retailer-3,FKKXXXX
+Device-2,Device-1 128GB i5 8GB M1796,10,United States,47922,Retailer-3,KJRXXXX
+Device-2,Device-1 128GB M4GB BlackTCBndl M1796,75,Canada,5976026,Retailer-4,-0GG-00018
+Device-3,Device-1 i5/8/128 DB,10,United States,27898,Retailer-1,-0MUXXXX
+Device-1,Device-1 256GB i5 8GB Commer EDU Bundle,10,United States,47922,Retailer-3,TZ7XXXX
+Device-2,Device-1 R 128GB M4GB TCBndl DB M1796,10,United States,27898,Retailer-1,PGJXXXX
