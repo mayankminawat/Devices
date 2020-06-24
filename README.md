@@ -8,5 +8,5 @@ This is the devices DB code repo for take-home data analysis
 * addional new columns to be created
 * sql files to produce final analysis
 * py file to read the raw csv file and analyze them using pandas lib
-
+* analysis file in word doc with data insights
 
